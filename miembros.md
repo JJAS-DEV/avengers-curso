@@ -14,4 +14,3 @@
 * Scarlet Witch
 * Spider Woman
 * Thor
-* Vision
