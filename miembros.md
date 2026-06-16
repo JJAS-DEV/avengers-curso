@@ -15,4 +15,3 @@
 * Spider Woman
 * Thor
 * Vision
-* Wasp
